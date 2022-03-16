@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A-ElnaggarDev
 - 👀 I’m interested in software engineering 
-- 💞️ I’m looking to collaborate on large projects that help humans 
+- 💞️ I’m looking to collaborate on large projects that ease humans life
 - 📫 How to reach me eng.ahmedelnaggardev@gmail.com
 
 <!---
